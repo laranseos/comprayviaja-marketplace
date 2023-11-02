@@ -1,0 +1,385 @@
+[
+    {
+      "id":1,
+      "img": "/assets/images/tour/tour/7.jpg",
+      "title": "beautiful Bali",
+      "span": "(6N 7D)",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": true,
+      "star": "2012",
+      "category": "popular",
+      "rate":"2",
+      "offerBox":"8 people booked this hotel today",
+      "trip": "11 to 15 nights",
+      "label": "Recommended",
+      "flights": "with flights",
+      "travel": "beach",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/tour/tour/8.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/tour/tour/8.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "btn":"view detail",
+      "price": 310,
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visa"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "img": "/assets/images/tour/tour/8.jpg",
+      "title": "best of europe",
+      "span": "(6N 7D)",
+      "rate":"3",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "trip": "above 21 nights",
+      "star": "1",
+      "category": "latest",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/8.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/8.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "travel": "family",
+      "flights": "without flights",
+      "btn":"view detail",
+      "price": 400,
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visa",
+          "class": "not-include"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "img": "/assets/images/tour/tour/9.jpg",
+      "title": "dubai adventure",
+      "span": "(6N 7D)",
+      "rate":"4",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "trip": "4 to 7 nights",
+      "category": "popular",
+      "star": "4025",
+      "travel": "adventure",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/9.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/9.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "flights": "with flights",
+      "price": 290,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visa"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "img": "/assets/images/tour/tour/10.jpg",
+      "title": "exploring sydney",
+      "span": "(6N 7D)",
+      "rate":"5",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "category": "trend",
+      "trip": "15 to 21 nights",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/10.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/10.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "star": "25",
+      "travel": "cruise",
+      "flights": "without flights",
+      "price": 140,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visa"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "img": "/assets/images/tour/tour/11.jpg",
+      "title": "splendid spain",
+      "span": "(6N 7D)",
+      "rate":"1",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": true,
+      "trip": "upto 3 nights",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/11.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/11.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "label": "certified",
+      "star": "2012",
+      "category": "latest",
+      "travel": "shopping",
+      "flights": "with flights",
+      "price": 310,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visa",
+          "class": "not-include"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "img": "/assets/images/tour/tour/12.jpg",
+      "title": "simply mauritius",
+      "span": "(6N 7D)",
+      "rate":"2",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "offerBox":"8 people booked this hotel today",
+      "trip": "7 to 11 nights",
+      "category": "trend",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "star": "4025",
+      "travel": "honeymoon",
+      "flights": "without flights",
+      "price": 290,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visa"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "img": "/assets/images/tour/tour/13.jpg",
+      "title": "simply mauritius",
+      "span": "(6N 7D)",
+      "rate":"3",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "trip": "7 to 11 nights",
+      "category": "trend",
+      "star": "4025",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "travel": "honeymoon",
+      "flights": "without flights",
+      "price": 290,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visag"
+        }
+      ]
+    }, {
+      "id":8,
+      "img": "/assets/images/tour/tour/14.jpg",
+      "title": "simply mauritius",
+      "span": "(6N 7D)",
+      "rate":"3",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "trip": "7 to 11 nights",
+      "category": "latest",
+      "star": "4025",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "travel": "honeymoon",
+      "flights": "without flights",
+      "price": 290,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visag"
+        }
+      ]
+    }, {
+      "id":9,
+      "img": "/assets/images/tour/tour/15.jpg",
+      "title": "simply mauritius",
+      "span": "(6N 7D)",
+      "rate":"3",
+      "plane": "Kuta (2N) → Lombok (2N) → Ubud (2N)",
+      "include": "include at this price",
+      "offer": false,
+      "trip": "7 to 11 nights",
+      "category": "trend",
+      "star": "4025",
+      "sliderImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }],
+      "multipleImg": [{ "img": "/assets/images/tour/tour/12.jpg" }, { "img": "/assets/images/tour/tour/7.jpg" }, { "img": "/assets/images/hotel/room/3.jpg" }, { "img": "/assets/images/hotel/room/4.jpg" }],
+      "video": "/assets/video/hotel.mp4",
+      "travel": "honeymoon",
+      "flights": "without flights",
+      "price": 290,
+      "btn":"view detail",
+      "iconImg": [
+        {
+          "id":1,
+          "img": "/assets/images/icon/tour/hotel.png",
+          "title": "hotels"
+        },
+        {
+          "id":2,
+          "img": "/assets/images/icon/tour/fork.png",
+          "title": "meals"
+        },
+        {
+          "id":3,
+          "img": "/assets/images/icon/tour/photo-camera.png",
+          "title": "sightseeing"
+        },
+        {
+          "id":4,
+          "img": "/assets/images/icon/tour/visa.png",
+          "title": "visag"
+        }
+      ]
+    }
+  ]
+  

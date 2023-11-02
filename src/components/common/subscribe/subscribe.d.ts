@@ -1,0 +1,3 @@
+interface ISubscribeOneProps {
+  classSub?: string;
+}
